@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1943b0e1.css",
+    "main.js": "/static/js/main.b3d597a3.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/AcademyRegister.jpg": "/static/media/AcademyRegister.9cbaded21d88c1303954.jpg",
+    "static/media/findacademies.jpg": "/static/media/findacademies.58f085798608d10da076.jpg",
+    "static/media/user.jpg": "/static/media/user.5f9a9d962a5d698ecbf7.jpg",
+    "static/media/edituser.jpg": "/static/media/edituser.ea69315d732ff31f6694.jpg",
+    "index.html": "/index.html",
+    "main.1943b0e1.css.map": "/static/css/main.1943b0e1.css.map",
+    "main.b3d597a3.js.map": "/static/js/main.b3d597a3.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1943b0e1.css",
+    "static/js/main.b3d597a3.js"
+  ]
+}
